@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "1f58",
+      "title": "dinner with ranggo"
+    },
+    {
+      "id": "4b84",
+      "title": "joggin in the morning"
+    },
+    {
+      "id": "e5a6",
+      "title": "lunch with budiman"
+    },
+    {
+      "id": "c85a",
+      "title": "test"
+    },
+    {
+      "id": "bbbe",
+      "title": "test123"
+    }
+  ]
+}

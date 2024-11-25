@@ -1,13 +1,17 @@
-/** @format */
-
 import './App.css';
+import AddPost from './components/AddPost';
 import Counter from './components/Counter';
+import LazyQueryComponent from './components/LazyQueryComponent';
 import PostList from './components/PostList';
+import PostListFromRTKQ from './components/PostListFromRTKQ';
 
 function App() {
 	return (
 		<>
-			<PostList />
+			{/* <PostList /> */}
+			<PostListFromRTKQ/>
+			<AddPost/>
+			<LazyQueryComponent/>
 		</>
 	);
 }
